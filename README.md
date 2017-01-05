@@ -1,4 +1,4 @@
-# pythonPackageBoilerPlate
+# python Package boilerplate/template
 A basic boilerplate for creating python package 
 
 Simply complete the config placeholders in the 'setup.py' file with your package information:
