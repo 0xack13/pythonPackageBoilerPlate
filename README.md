@@ -3,7 +3,7 @@ A basic boilerplate for creating python package
 
 Simply complete the config placeholders in the 'setup.py' file with your package information:
 
-```
+```python
 setup(name='MODULENAME',
 	version='',
 	description='',
@@ -17,7 +17,7 @@ setup(name='MODULENAME',
 
 Once the package information is comelpte, run the following:
 
-```
+```bash
 python setup.py sdist
 ```
 
